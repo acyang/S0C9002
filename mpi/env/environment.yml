@@ -1,0 +1,55 @@
+name: python-mpi
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1=conda_forge
+  - _openmp_mutex=4.5=2_gnu
+  - bzip2=1.0.8=h4bc722e_7
+  - ca-certificates=2024.8.30=hbcca054_0
+  - cython=3.0.11=py310h5b1441d_3
+  - icu=75.1=he02047a_0
+  - ld_impl_linux-64=2.43=h712a8e2_2
+  - libblas=3.9.0=25_linux64_openblas
+  - libcblas=3.9.0=25_linux64_openblas
+  - libevent=2.1.12=hf998b51_1
+  - libffi=3.4.2=h7f98852_5
+  - libgcc=14.2.0=h77fa898_1
+  - libgcc-ng=14.2.0=h69a702a_1
+  - libgfortran=14.2.0=h69a702a_1
+  - libgfortran-ng=14.2.0=h69a702a_1
+  - libgfortran5=14.2.0=hd5240d6_1
+  - libgomp=14.2.0=h77fa898_1
+  - libhwloc=2.11.2=default_he43201b_1000
+  - libiconv=1.17=hd590300_2
+  - liblapack=3.9.0=25_linux64_openblas
+  - libllvm14=14.0.6=hcd5def8_4
+  - libnl=3.10.0=h4bc722e_0
+  - libnsl=2.0.1=hd590300_0
+  - libopenblas=0.3.28=pthreads_h94d23a6_0
+  - libsqlite=3.47.0=hadc24fc_0
+  - libstdcxx=14.2.0=hc0a3c3a_1
+  - libstdcxx-ng=14.2.0=h4852527_1
+  - libuuid=2.38.1=h0b41bf4_0
+  - libxcrypt=4.4.36=hd590300_1
+  - libxml2=2.12.7=he7c6b58_4
+  - libzlib=1.3.1=hb9d3cd8_2
+  - llvmlite=0.43.0=py310h1a6248f_1
+  - mpi=1.0=openmpi
+  - mpi4py=4.0.1=py310h58152c7_0
+  - ncurses=6.5=he02047a_1
+  - numba=0.60.0=py310h5dc88bb_0
+  - numpy=2.0.2=py310hd6e36ab_0
+  - openmpi=5.0.5=external_h6b209bc_3
+  - openssl=3.3.2=hb9d3cd8_0
+  - pip=24.2=pyh8b19718_1
+  - python=3.10.15=h4a871b0_2_cpython
+  - python_abi=3.10=5_cp310
+  - readline=8.2=h8228510_1
+  - scipy=1.14.1=py310hfcf56fc_1
+  - setuptools=75.1.0=pyhd8ed1ab_0
+  - tk=8.6.13=noxft_h4845f30_101
+  - tzdata=2024b=hc8b5060_0
+  - wheel=0.44.0=pyhd8ed1ab_0
+  - xz=5.2.6=h166bdaf_0
+prefix: /home/p00acy00/.conda/envs/python-mpi
